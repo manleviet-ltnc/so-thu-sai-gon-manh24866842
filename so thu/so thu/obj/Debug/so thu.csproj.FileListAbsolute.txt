@@ -1,0 +1,10 @@
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\obj\Debug\so thu.csprojResolveAssemblyReference.cache
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\obj\Debug\so_thu.Form1.resources
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\obj\Debug\so_thu.Properties.Resources.resources
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\obj\Debug\so thu.csproj.GenerateResource.Cache
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\obj\Debug\so thu.csproj.CoreCompileInputs.cache
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\bin\Debug\p.exe.config
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\bin\Debug\p.exe
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\bin\Debug\p.pdb
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\obj\Debug\p.exe
+D:\github\so-thu-sai-gon-manh24866842\so thu\so thu\obj\Debug\p.pdb
